@@ -12,7 +12,7 @@ var logger = require('demi-logger');
 
 //Express example.js
 app.configure(function() {
-  app.use(logger);
+  app.use(express.logger(logger));
 });
 ```
 

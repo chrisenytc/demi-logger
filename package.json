@@ -1,7 +1,7 @@
 {
   "name": "demi-logger",
   "description": "Demi.js middleware for advanced logging",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/chrisenytc/demi-logger",
   "author": {
     "name": "Christopher EnyTC",
