@@ -16,6 +16,10 @@ app.configure(function() {
 });
 ```
 
+## Screenshort
+
+[![Demi.js](screenshort.png)](http://demijs.enytc.com)
+
 ## Contributing
 
 Please submit all issues and pull requests to the [chrisenytc/demi-logger](http://github.com/chrisenytc/demi-logger) repository!
@@ -24,6 +28,9 @@ Please submit all issues and pull requests to the [chrisenytc/demi-logger](http:
 If you have any problem or suggestion please open an issue [here](https://github.com/chrisenytc/demi-logger/issues).
 
 ## License
+
+The MIT License
+
 Copyright (c) 2014 Christopher EnyTC
 
 Permission is hereby granted, free of charge, to any person
@@ -46,3 +53,4 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
+
